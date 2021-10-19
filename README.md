@@ -12,3 +12,4 @@ Baekjoon problem solved
 [Baekjoon_11720](https://haruple.tistory.com/180)<br/>
 [Baekjoon_4673](https://haruple.tistory.com/186)<br/>
 [Baekjoon_10809](https://haruple.tistory.com/187)<br/>
+[Baekjoon_2675](https://haruple.tistory.com/188)<br/>
